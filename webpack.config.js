@@ -19,7 +19,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: '2048 Game ver2 very very good!',
+            title: '2048 Game ver2 very very good! to you!',
         })
     ],
     devServer: {
