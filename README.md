@@ -1,2 +1,3 @@
-# fast-test-app-repo
-game-2048 app repo for eks lab 
+# cs-app-repo
+
+game-2048 cs app repo for eks lab
